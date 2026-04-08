@@ -8,7 +8,7 @@ This repository contains a suite of **Core Python** decision-support tools desig
 ---
 
 ## 🌾 01. PestGuard // Infestation Tracker
-**Domain:** Crop Protection & Early Warning Systems
+**Domain:** Crop Protection & Early Warning Systems 
 
 ### 📋 Overview
 PestGuard is a lightweight, rule-based monitoring system. It tracks daily pest sightings and classifies the severity of the infestation to help farmers make data-driven decisions before damage becomes irreversible.
